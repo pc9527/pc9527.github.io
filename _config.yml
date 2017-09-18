@@ -16,7 +16,7 @@
 title: 听莱哥吹牛
 email: who-use-email-these@days.com
 description: > # this means to ignore newlines until "baseurl:"
-  说了也不用信，乐呵乐呵就行
+  说了也不用信，乐呵乐呵吧
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb

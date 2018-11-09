@@ -4,7 +4,8 @@ title: 哪来的原动力
 ## 哪来的原动力
 
 ```
-Ernest Hemingway once wrote, "The world is a fine place and worth fighting for." I agree with the second part.
+Ernest Hemingway once wrote, "The world is a fine place and worth fighting for." 
+I agree with the second part.
 ```
 
 海明威一生都在为自己的美好世界奋战，当他被时间夺走记忆，丧失写作能力之后，他选择了拼上性命最后一搏。
@@ -33,7 +34,7 @@ Ernest Hemingway once wrote, "The world is a fine place and worth fighting for."
 
 ### 形而上和形而下
 
-自从V8引擎发布后，应该说是被Google看上之后，js有了大发展————大潮中难免沉渣泛起，若干乱象比如：一句代码能写出来奇偶数判定函数也做成npm包，还产生了诸多依赖；重复造轮子：grant gulp browserify bower webpack rollup等等打包/模块化工具基本一年出一个，老祖宗makefile可以瞑目了；前不久更是出了国内前端程序员去Node.js之父新出的deno项目里提issue，说“学不动了”的惨剧。
+自从V8引擎发布后，应该说是被Google看上之后，js有了大发展——大潮中难免沉渣泛起，若干乱象比如：一句代码能写出来奇偶数判定函数也做成npm包，还产生了诸多依赖；重复造轮子：grunt gulp browserify bower webpack rollup等等打包/模块化工具基本一年出一个，老祖宗makefile可以瞑目了；前不久更是出了国内前端程序员去Node.js之父新出的deno项目里提issue，说“学不动了”的惨剧。
 
 首先行业里是有资本泡沫的，有泡沫就有利益，在Github有个明星项目，属于高性价比的“养望”操作手段，js因为门槛低，用户量大，自然就成了首选。
 
@@ -46,9 +47,9 @@ Ernest Hemingway once wrote, "The world is a fine place and worth fighting for."
 
 *以上全错*
 
-回到开头的问题——答案之一是兴趣。小说《火力》里谈到特种部队作战的动力——是从阿尔卑斯山打到阿富汗的那种失败了就准备光荣牺牲的隐秘行动，面对血与火的残酷，被责任/信念/金钱驱动的人都干不长久，面对一个操作失误就万劫不复这种高压甘之如饴的人才能当成职业。兴趣，换年轻人的词——有爱。
+回到开头的问题——答案之一是兴趣。小说《火力》里谈到特种部队作战的动力——是从阿尔卑斯山打到阿富汗的那种失败了就准备光荣牺牲的隐秘行动，面对血火和牺牲，责任/信念/金钱驱动的人都干不长久，面对一个操作失误就万劫不复这种高压甘之如饴的人才能当成职业。兴趣，换年轻人的词——有爱。
 
-只要有输出，你就是有力量的，无论做什么。
+只要有输出，你就有力量，无论做什么。
 
 如果你干事的时候肾上腺素飙升，干完以后有巨大的成就感，以及日久不干就手痒，那么你就是干这事儿的天选之人——就像写小说的欧内斯特·米勒·海明威，和上镜就一脸忠厚沧桑的摩根·弗里曼。
 

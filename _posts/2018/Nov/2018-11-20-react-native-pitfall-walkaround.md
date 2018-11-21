@@ -52,3 +52,13 @@ declare module 'react-native-voice' {
 
 Edit Scheme => Run => Environment Variables => Add OS_ACTIVITY_MODE:disable
 
+## whatwg-fetch require cycle
+
+0.57版开箱即用的warning，除非去patch lib，否则只能用这种猥琐的方式关掉：
+
+```
+import { YellowBox } from 'react-native';
+YellowBox.ignoreWarnings(['Require cycle:']);
+```
+
+[官方issue](https://github.com/facebook/metro/issues/287)

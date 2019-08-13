@@ -46,8 +46,8 @@ title: 看RSS为什么选ReadCog？
 
 最后列出url，同时说明一下，ReadCog是我做给自己用来代替Feedly的阅读器，只要我还看RSS（已经看十几年了），就会继续运营下去——包括自言自语自high自审查公共时间线——有文章开头类似需求的小（老）伙伴们，来吧！
 
-[https://m.readcog.cn/](移动版)
+[移动版](https://m.readcog.cn/)
 
-[https://www.readcog.cn/](桌面版)
+[桌面版](https://www.readcog.cn/)
 
-[https://join.slack.com/t/readcog/shared_invite/enQtNzE4MzcxNTYxNTUzLTFlZjVkY2Y4ZWQ2YWM1NjBmYjdmYzRjYzQwZTljYzE5MjNhYTA3MTBmYWEwODdkYjI5OTMyZGZjODQ4ZDQ4YjQ](slack技术支持群)
+[slack技术支持群](https://join.slack.com/t/readcog/shared_invite/enQtNzE4MzcxNTYxNTUzLTFlZjVkY2Y4ZWQ2YWM1NjBmYjdmYzRjYzQwZTljYzE5MjNhYTA3MTBmYWEwODdkYjI5OTMyZGZjODQ4ZDQ4YjQ)
